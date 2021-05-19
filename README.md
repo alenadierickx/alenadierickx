@@ -18,8 +18,7 @@
 ![Symfony](https://img.shields.io/badge/Symfony-090909?style=for-the-badge&logo=Symfony)
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=mysql)
 
-Latest Youtube Videos
 
-###Follow Me
+### Follow Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIN-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alena-dierickx)
