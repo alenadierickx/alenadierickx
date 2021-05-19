@@ -1,5 +1,4 @@
-[![Header](https://github.com/alenadierickx/alenadierickx.git
-/main/assets/alenadierickx_logo.png)] 
+[![Header](https://github.com/alenadierickx/alenadierickx/tree/main/assets/alenadierickx_logo.png)] 
 
 About Me
 
