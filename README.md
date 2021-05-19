@@ -1,4 +1,5 @@
-Header 
+[![Header](https://github.com/alenadierickx/alenadierickx.git
+/main/assets/alenadierickx_logo.png)] 
 
 About Me
 
