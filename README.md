@@ -2,7 +2,7 @@
 
 ## I'm Developer FullStack
 
-Latest Youtube Videos
+
 
 ### Languages and Tools
 
@@ -18,4 +18,8 @@ Latest Youtube Videos
 ![Symfony](https://img.shields.io/badge/Symfony-090909?style=for-the-badge&logo=Symfony)
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=mysql)
 
-Follow Me
+Latest Youtube Videos
+
+###Follow Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIN-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alena-dierickx)
